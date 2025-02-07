@@ -12,10 +12,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
-  <table>
-    <tr>
-      <td valign="top" width="33%">
+<div style="border: none;">
+  <table style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td valign="top" width="33%" style="border: none;">
         <h3>Frontend</h3>
         <div align="center">  
           <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
@@ -27,7 +27,7 @@
           <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
         </div>
       </td>
-      <td valign="top" width="33%">
+      <td valign="top" width="33%" style="border: none;">
         <h3>Backend</h3>
         <div align="center">  
           <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -38,7 +38,7 @@
           <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
         </div>
       </td>
-      <td valign="top" width="33%">
+      <td valign="top" width="33%" style="border: none;">
         <h3>DevOps & Database</h3>
         <div align="center">  
           <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -51,6 +51,7 @@
     </tr>
   </table>
 </div>
+
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaime9745&show_icons=true&bg_color=00000000&locale=en&layout=compact&hide_border=true" alt="jaime9745" /></p>
