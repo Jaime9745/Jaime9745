@@ -58,7 +58,7 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats-jaime9745s-projects.vercel.app/api/top-langs?username=jaime9745&show_icons=true&bg_color=00000000&locale=en&layout=compact&hide_border=true" alt="jaime9745" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-jaime9745s-projects.vercel.app/api/top-langs?username=Jaime9745&show_icons=true&bg_color=00000000&locale=en&layout=compact&hide_border=true" alt="jaime9745" /></p>
 
 <img src="https://raw.githubusercontent.com/Jaime9745/Jaime9745/output/snake.svg" alt="Snake animation" />
 
